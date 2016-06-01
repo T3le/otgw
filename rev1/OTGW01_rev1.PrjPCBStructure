@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=OTGW01_rev1.SchDoc
+Record=SheetSymbol|SourceDocument=OTGW01_rev1.SchDoc|Designator=Interfaces|SchDesignator=Interfaces|FileName=OTGW01_interfaces_rev1.SchDoc|SymbolType=Normal|RawFileName=OTGW01_interfaces_rev1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=OTGW01_rev1.SchDoc|Designator=Opentherm|SchDesignator=Opentherm|FileName=OTGW01_psu_rev1.SchDoc|SymbolType=Normal|RawFileName=OTGW01_psu_rev1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=OTGW01_rev1.SchDoc|Designator=Opentherm|SchDesignator=Opentherm|FileName=OTGW01_opentherm_rev1.SchDoc|SymbolType=Normal|RawFileName=OTGW01_opentherm_rev1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

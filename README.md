@@ -1,3 +1,0 @@
-# otgw
-
-OTGW

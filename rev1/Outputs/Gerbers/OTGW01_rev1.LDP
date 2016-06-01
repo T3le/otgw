@@ -1,0 +1,5 @@
+Layer Pairs Export File for PCB: Z:\Designs\OTGW01\rev1\OTGW01_rev1.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=otgw01_rev1-roundholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=otgw01_rev1-slotholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=otgw01_rev1-roundholes-nonplated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Slot_Holes|DrillFile=otgw01_rev1-slotholes-nonplated.txt|DrillLayers=gtl,gbl

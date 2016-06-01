@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: OTGW01_rev1.PcbDoc   1-6-2016  21:33:29
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top to Bottom
+ASCII Plated RoundHoles File : OTGW01_rev1-RoundHoles-Plated.TXT
+ASCII Non-Plated RoundHoles File : OTGW01_rev1-RoundHoles-NonPlated.TXT
+ASCII Plated SlotHoles File : OTGW01_rev1-SlotHoles-Plated.TXT
+ASCII Non-Plated SlotHoles File : OTGW01_rev1-SlotHoles-NonPlated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.45mm (18mil)                                            Round             52        PTH        309.79mm (12.20inch)
+T2      0.8mm (31mil)                                             Slot              8         PTH        43.22mm (1.70inch)
+T3      0.9mm (35mil)                                             Round             45        PTH        201.44mm (7.93inch)
+T4      0.95mm (37mil)                                            Round             30        PTH        147.30mm (5.80inch)
+T5      1.3mm (51mil)                                             Round             14        PTH        84.00mm (3.31inch)
+T6      3mm (118mil)                                              Round             4         NPTH       85.34mm (3.36inch)
+T7      3.2mm (126mil)                                            Round             8         NPTH       253.97mm (10.00inch)
+T8      3.2mm (126mil)                                            Slot              4         NPTH       82.48mm (3.25inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              165
+
+Total Processing Time (hh:mm:ss) : 00:00:01

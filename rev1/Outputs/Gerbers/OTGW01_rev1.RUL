@@ -1,0 +1,11 @@
+DRC Rules Export File for PCB: Z:\Designs\OTGW01\rev1\OTGW01_rev1.PcbDoc
+RuleKind=MinimumAnnularRing|RuleName=Minimum IAR <=0.45mm|Scope=Board|Minimum=8.86
+RuleKind=MinimumAnnularRing|RuleName=Minimum IAR  >0.45mm|Scope=Board|Minimum=9.84
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=ShortCircuit|RuleName=ShortCircuit_txt|Scope=Board|Allowed=1
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=holes_clearance|Scope=Board|Minimum=102.36
+RuleKind=Clearance|RuleName=fiducial_clearance|Scope=Board|Minimum=43.31
+RuleKind=Clearance|RuleName=clr_ot|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
